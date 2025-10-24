@@ -1,0 +1,14 @@
+# Virtual environment
+env/
+# Environment variables
+.env
+.env.*
+# Logs
+*.log
+logs/
+
+# .md files
+*.md
+# OS generated files
+.DS_Store
+
